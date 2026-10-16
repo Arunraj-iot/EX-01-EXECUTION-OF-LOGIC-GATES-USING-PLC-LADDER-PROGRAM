@@ -82,7 +82,7 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 # SIMULATION RESULTS 
 
 
-**#Results:**
+# Results:
 
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
